@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Premgram
+          Sociopedia
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
